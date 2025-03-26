@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Mitsuru Kokubo"
   pronouns         : # example: "he/him"  
-  bio              : "National Astronomical Observatory of Japan (NAOJ)" # "Short biography for the left-hand sidebar"
+  bio              : "Division of Science, NAOJ" # "Short biography for the left-hand sidebar"
   location         : "Japan"
   employer         : "Division of Science, NAOJ"
   uri              : # URL
