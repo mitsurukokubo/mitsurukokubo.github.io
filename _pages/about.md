@@ -12,8 +12,9 @@ redirect_from:
 Welcome to Mitsuru Kokubo's webpage.
 I'm an astronomer in the Division of Science, NAOJ. 
 My research interest includes:
-    time-domain astronomy
-    Active galaxies
+    Time-Domain Astronomy, 
+    Active Galaxies, 
+    and
     Supernovae
 
 ------
