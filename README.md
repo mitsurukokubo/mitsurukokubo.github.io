@@ -1,4 +1,1 @@
-# Academic Pages
-**Mitsuru Kokubo**
-# Getting Started
-
+Front page: mitsurukokubo.github.io/_pages/about.md
