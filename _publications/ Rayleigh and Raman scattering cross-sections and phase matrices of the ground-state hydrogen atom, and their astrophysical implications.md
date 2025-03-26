@@ -1,4 +1,5 @@
 ---
+title: "Rayleigh and Raman scattering cross-sections and phase matrices of the ground-state hydrogen atom, and their astrophysical implications"
 category: manuscripts
 date: 2024-04-01
 venue: 'MNRAS, 529, 2131'
