@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "" #"Your Name"
+title                    : "Mitsuru Kokubo" #"Your Name"
 title_separator          : "-"
 name                     : &name "Mitsuru Kokubo"
 description              : &description "Division of Science, NAOJ" #"personal description"
@@ -32,7 +32,7 @@ author:
   email            : #"" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/astro-ph?searchtype=author&query=Kokubo,+Mitsuru"# URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-6402-1415"
