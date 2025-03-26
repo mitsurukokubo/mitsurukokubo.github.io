@@ -16,6 +16,4 @@ My research interest includes:
     Active galaxies
     Supernovae
 
-For more details, see my CV. 
-
 ------
