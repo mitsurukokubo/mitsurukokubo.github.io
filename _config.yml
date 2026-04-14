@@ -39,6 +39,7 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  researchmap      : "https://researchmap.jp/mitsurukokubo"
   scopus           : # URL
 
   # Repositories and software development
