@@ -82,15 +82,17 @@
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}
+
       
       {% if author.researchmap %}
         <li>
           <a href="{{ author.researchmap }}">
-            <i class="fas fa-user"></i> Researchmap
+            <img src="/assets/images/researchmap.png" style="width:16px; height:16px;"> Researchmap
           </a>
         </li>
       {% endif %}
 
+      
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
         <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
